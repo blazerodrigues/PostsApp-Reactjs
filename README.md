@@ -2,7 +2,7 @@
 
 <b>Run the application</b> 
 <br/>
-<b>React.js:</b> npm install, then npm run dev
+<b>React.js:</b> npm install, npm run dev
 <br/>
 <b>Backend:</b> goto reactjs-dummy-backend folder, npm start
 <br/><br/>
