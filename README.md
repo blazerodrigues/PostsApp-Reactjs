@@ -4,7 +4,7 @@
 <br/>
 <b>React.js:</b> npm install, npm run dev
 <br/>
-<b>Backend:</b> goto reactjs-dummy-backend folder, npm start
+<b>Backend:</b> goto reactjs-dummy-backend folder, npm install, npm start
 <br/><br/>
 
 <b>Display all posts</b> 
