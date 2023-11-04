@@ -1,5 +1,12 @@
 # Posts App (React.js)
 
+<b>Run the application</b> 
+<br/>
+<b>React.js:</b> npm install, then npm run dev
+<br/>
+<b>Backend:</b> goto reactjs-dummy-backend folder, npm start
+<br/><br/>
+
 <b>Display all posts</b> 
 <br/><br/>
 <img width="960" alt="image" src="https://github.com/blazerodrigues/PostsApp-Reactjs/assets/96373227/cabcd49a-a570-4361-80b8-cef6aa79a514">
