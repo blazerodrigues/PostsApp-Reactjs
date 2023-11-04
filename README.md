@@ -1,8 +1,11 @@
-# React + Vite
+# Posts App (React.js)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Display all posts 
+<br/>
+<img width="960" alt="image" src="https://github.com/blazerodrigues/PostsApp-Reactjs/assets/96373227/cabcd49a-a570-4361-80b8-cef6aa79a514">
+<br/>
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Display individual post
+<br/>
+<img width="960" alt="image" src="https://github.com/blazerodrigues/PostsApp-Reactjs/assets/96373227/efca0eb7-32d1-4b59-bff1-f8f7fb60f0dd">
+<br/>
