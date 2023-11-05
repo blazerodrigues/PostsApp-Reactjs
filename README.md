@@ -9,16 +9,15 @@
 
 <b>Display all posts</b> 
 <br/><br/>
-<img width="960" alt="image" src="https://github.com/blazerodrigues/PostsApp-Reactjs/assets/96373227/cabcd49a-a570-4361-80b8-cef6aa79a514">
+<img width="960" alt="display_all_posts" src="https://github.com/blazerodrigues/PostsApp-Reactjs/assets/96373227/49af221c-0b4e-40b7-b8f9-d243a41868c3">
 <br/>
 
 <b>Display individual post</b>
 <br/><br/>
-<img width="960" alt="image" src="https://github.com/blazerodrigues/PostsApp-Reactjs/assets/96373227/efca0eb7-32d1-4b59-bff1-f8f7fb60f0dd">
+<img width="960" alt="display_individual_post" src="https://github.com/blazerodrigues/PostsApp-Reactjs/assets/96373227/d3b28acd-02be-4efd-a830-b974ce1e1a78">
 <br/>
 
 <b>Create new post</b>
 <br/><br/>
-<img width="960" alt="image" src="https://github.com/blazerodrigues/PostsApp-Reactjs/assets/96373227/749e617c-2ffc-425c-9a5c-fbf39834b554">
+<img width="960" alt="create_new_post" src="https://github.com/blazerodrigues/PostsApp-Reactjs/assets/96373227/4789a443-dfad-45cf-9c10-dd8ae744bbd6">
 <br/>
-
